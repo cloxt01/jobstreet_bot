@@ -57,9 +57,12 @@ JobStreet Bot adalah skrip otomatisasi berbasis PHP untuk mencari dan mengekstra
 ## Output
 
 ```bash
-[auth] Load Authorization berhasil                                                              [auth] HTTP Response Code: 200       [auth] Authorization tersimpan
+[auth] Load Authorization berhasil
+[auth] Authorization tersimpan
 ---------76910823--------
-[graphql] HTTP Response Code: 200                                                               [graphql] HTTP Response Code: 200    [graphql] HTTP Response Code: 200                                                               [graphql] HTTP Response Code: 200    [graphql] HTTP Response Code: 200
+[graphql] HTTP Response Code: 200
+[graphql] HTTP Response Code: 200
+[graphql] HTTP Response Code: 200
 [is_applied] True
 ```
 
