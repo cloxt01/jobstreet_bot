@@ -67,3 +67,7 @@ Kontribusi sangat diterima! Silakan buat fork dari repositori ini dan kirimkan p
 ## Lisensi
 
 Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
+
+## Penulis
+
+- [Nacho](https://github.com/cloxt01)
