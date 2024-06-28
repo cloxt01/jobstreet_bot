@@ -54,7 +54,17 @@ JobStreet Bot adalah skrip otomatisasi berbasis PHP untuk mencari dan mengekstra
 
 3. Hasil pencarian akan disimpan di file yang ditentukan dalam `config.php` (`results.csv` atau `results.json`).
 
+## Output
+
+```bash
+[auth] Load Authorization berhasil                                                              [auth] HTTP Response Code: 200       [auth] Authorization tersimpan
+---------76910823--------
+[graphql] HTTP Response Code: 200                                                               [graphql] HTTP Response Code: 200    [graphql] HTTP Response Code: 200                                                               [graphql] HTTP Response Code: 200    [graphql] HTTP Response Code: 200
+[is_applied] True
+```
+
 ## Struktur Proyek
+
 
 - `jobstreet_bot.php`: Skrip utama untuk menjalankan bot.
 - `auth.json`: File ini merupakan otoritasi untuk mengakses server
