@@ -73,10 +73,6 @@ JobStreet Bot adalah skrip otomatisasi berbasis PHP untuk mencari dan mengekstra
 - `auth.json`: File ini merupakan otoritasi untuk mengakses server
 - `README.md`: Dokumentasi ini.
 
-## Kontribusi
-
-Kontribusi sangat diterima! Silakan buat fork dari repositori ini dan kirimkan pull request Anda. Pastikan untuk mengikuti panduan gaya dan menambahkan dokumentasi yang diperlukan.
-
 ## Lisensi
 
 Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
